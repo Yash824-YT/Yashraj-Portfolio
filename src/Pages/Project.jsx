@@ -15,7 +15,7 @@ export default function Project() {
           <div className="row g-4">
             {/* Project 1 */}
             <div className="col-lg-4 col-md-6">
-              <div className="card project-card">
+              <div className="card project-card  h-100">
                 <img
                   src="https://res.cloudinary.com/di3qqikgt/image/upload/v1785047501/Project_DashBorad_q80ov9.png"
                   className="img-fluid"
@@ -56,7 +56,7 @@ export default function Project() {
             </div>
             {/* Project 2 */}
             <div className="col-lg-4 col-md-6">
-              <div className="card project-card">
+              <div className="card project-card  h-100">
                 <img
                   src="https://res.cloudinary.com/di3qqikgt/image/upload/v1785071693/ChatGPT_Image_Jul_26_2026_06_44_34_PM_mlivdc.png"
                   className="img-fluid"
@@ -92,7 +92,7 @@ export default function Project() {
             </div>
             {/* Project 3 */}
             <div className="col-lg-4 col-md-6">
-              <div className="card project-card">
+              <div className="card project-card h-100">
                 <img
                   src="https://res.cloudinary.com/di3qqikgt/image/upload/v1785047587/IPL_Analytics_Dashborad_jcmh99.png"
                   className="img-fluid w-100"
