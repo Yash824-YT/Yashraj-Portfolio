@@ -1,3 +1,5 @@
+
+
 export default function About() {
   return (
     <>
@@ -7,7 +9,8 @@ export default function About() {
             {/* Image */}
             <div className="col-lg-5 text-center mb-5 mb-lg-0 rounded">
               <img
-                src="https://res.cloudinary.com/di3qqikgt/image/upload/v1782148547/alumni/profiles/wo7fciilwoo2ajgksbtp.jpg"
+                // src="https://res.cloudinary.com/di3qqikgt/image/upload/v1782148547/alumni/profiles/wo7fciilwoo2ajgksbtp.jpg"
+                src="Yashraj_Photo.jpeg"
                 className="about-img img-fluid"
                 style={{ borderRadius: "50%" }}
                 alt="Profile Image"

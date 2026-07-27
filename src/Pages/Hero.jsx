@@ -69,7 +69,7 @@ export default function Hero() {
             <div className="col-lg-5 text-center mt-5 mt-lg-0">
               <div className="hero-img-wrap d-inline-block position-relative">
                 <img
-                  src="https://res.cloudinary.com/di3qqikgt/image/upload/v1782148547/alumni/profiles/wo7fciilwoo2ajgksbtp.jpg"
+                  src="Yashraj_Photo.jpeg"
                   className="img-fluid profile-img rounded-5"
                   alt="Yashraj Talekar profile photo"
                 />

@@ -14,11 +14,10 @@ export default function Certificates() {
             </p>
           </div>
           <div className="row g-4">
-            {/* Certificate 1 */}
             <div className="col-lg-4 col-md-6">
               <div className="card certificate-card">
                 <img
-                  src="https://res.cloudinary.com/di3qqikgt/image/upload/v1772715925/1761590487712_usicw6.jpg"
+                  src="Oracal.png"
                   alt="Certificate"
                 />
                 <div className="certificate-body">
